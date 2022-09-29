@@ -29,9 +29,9 @@ edge of the button, for a second or two (the delay is intentional). Once the
 game 'teleports' you from the menu page to a 'daylight scene', you know you
 launched the game and are now ready to play. Enjoy!
 
-![alt text](https://github.com/NickMcWay/Wild-Spotter/blob/main/Menu%20view.jpg?raw=true)
-![alt text](https://github.com/NickMcWay/Wild-Spotter/blob/main/Game%20view%201.jpg?raw=true)
-![alt text](https://github.com/NickMcWay/Wild-Spotter/blob/main/Game%20view%202.jpg?raw=true)
+![alt text](https://github.com/NielsWeggeman/Wild-Spotter/blob/main/Menu%20view.jpg)
+![alt text](https://github.com/NielsWeggeman/Wild-Spotter/blob/main/Game%20view%201.jpg)
+![alt text](https://github.com/NielsWeggeman/Wild-Spotter/blob/main/Game%20view%202.jpg)
 
 
 *---- Further improvements ----*
