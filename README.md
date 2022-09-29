@@ -51,7 +51,7 @@ aan de volgende dingen werken:
 - Informatie toevoegen over welke dieren je hebt gespot, zodat je meer over deze dieren kan leren.
   
 
-*---- Known Bugs ----*
+*---- Bekende Bugs ----*
 
 Niet alle bugs konden binnen de termijn van twee dagen goed worden verwijderd. 
 Er zijn een paar bugs al bekend:
