@@ -1,5 +1,5 @@
 # Soccer Star VR
-Simple VR Game built for Intern Challenge
+Eenvoudige VR-game gebouwd voor Intern Challenge
 
 *---- Welcome to... Wild Spotter! ----*
 
@@ -14,6 +14,8 @@ de scene te spotten - zonder daarvoor hun handen of de rest van hun lichaam te b
 
 Dit is geschikt voor in ziekenhuissituaties waar het kind relatief stil moeten zitten 
 tijdens de procedure, en daarom hun handen niet kunnen gebruiken.
+
+Bekijk een schermopname van het spel op https://youtu.be/mSGY6pZxowo
 
 Deze game is ontworpen om te worden gespeeld op de Oculus Quest 2
 
